@@ -3,7 +3,6 @@ languageCode: en-us
 title: Marvin Sextro
 theme: PaperMod
 params:
-  author: Marvin Sextro
   description: My personal website.
   profileMode:
     enabled: true
