@@ -1,9 +1,10 @@
 baseURL: 'https://marvinsextro.de/'
 languageCode: en-us
-title: Marvin Sextro
-description: My personal website.
+title: Marvin
 theme: PaperMod
 params:
+  author: Marvin Sextro
+  description: My personal website.
   profileMode:
     enabled: true
     title: Marvin Sextro
