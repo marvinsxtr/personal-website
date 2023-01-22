@@ -2,13 +2,19 @@ baseURL: 'https://marvinsextro.de/'
 languageCode: en-us
 title: Marvin Sextro
 theme: PaperMod
+menu:
+  main:
+  - identifier: projects
+    name: Projects
+    url: '/projects'
+    weight: 10
 params:
   description: My personal website.
   profileMode:
     enabled: true
     title: Marvin Sextro
     subtitle: Computer Science Student @ TU Berlin
-    imageUrl: 'https://gravatar.com/avatar/099cbcdf60f0bee9c5600f293df2b0ea?s=200'
+    imageUrl: '/profile.jpg'
     imageWidth: 120
     imageHeight: 120
   socialIcons:
@@ -17,6 +23,10 @@ params:
     - name: github
       url: 'https://github.com/marvinsxtr'
     - name: linkedin
-      url: https://linkedin.com/in/marvinsxtr
+      url: 'https://linkedin.com/in/marvinsxtr'
     - name: twitter
-      url: https://twitter.com/marvinsxtr
+      url: 'https://twitter.com/marvinsxtr'
+  editPost:
+    URL: 'https://github.com/marvinsxtr/personal-website/tree/main/content'
+    Text: "Suggest Changes"
+    appendFilePath: true

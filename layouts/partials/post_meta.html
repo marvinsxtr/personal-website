@@ -1,7 +1,7 @@
 {{- $scratch := newScratch }}
 
-{{- if .Param "DateString"}}
-{{ .Param "DateString" }}
+{{- if (.Param "DateString") -}}
+{{- $scratch.Add "meta" (slice (.Param "Datestring")) }}
 {{- end }}
 
 {{- if not .Date.IsZero -}}
