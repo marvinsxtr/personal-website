@@ -2,6 +2,7 @@
 title: CovidPass
 dateString: June 2021 - June 2022
 author: ['Marvin Sextro', 'Sören Busse', 'Hauke Tönjes']
+tags: ['project', 'covid-19', 'wallet']
 cover:
   image: 'projects/covidpass/covidpass.png'
 ---

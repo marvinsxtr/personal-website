@@ -7,6 +7,10 @@ menu:
   - identifier: projects
     name: Projects
     url: '/projects'
+    weight: 20
+  - identifier: blog
+    name: Blog
+    url: '/blog'
     weight: 10
 params:
   description: My personal website.

@@ -1,7 +1,7 @@
 ---
 title: Legal Notice
-layout: "legal-notice"
-url: "/legal-notice"
+layout: legal-notice
+url: '/legal-notice'
 ---
 
 ## Information according to § 5 TMG
