@@ -8,9 +8,9 @@ menu:
     name: Projects
     url: '/projects'
     weight: 10
-  - identifier: blog
-    name: Blog
-    url: '/blog'
+  - identifier: posts
+    name: Posts
+    url: '/posts'
     weight: 20
 params:
   description: My personal website.
