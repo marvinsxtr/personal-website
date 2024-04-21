@@ -17,7 +17,7 @@ params:
   profileMode:
     enabled: true
     title: Marvin Sextro
-    subtitle: Computer Science Student @ TU Berlin
+    subtitle: Data Scientist at Aignostics
     imageUrl: '/profile.jpg'
     imageWidth: 120
     imageHeight: 120
