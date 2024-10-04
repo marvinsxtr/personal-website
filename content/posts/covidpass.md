@@ -1,11 +1,11 @@
 ---
 title: CovidPass
 dateString: June 2021 - June 2022
-date: 2021
+weight: 0
 author: ['Marvin Sextro', 'Sören Busse', 'Hauke Tönjes']
 tags: ['project', 'covid-19', 'wallet']
 cover:
-  image: 'projects/covidpass/covidpass.png'
+  image: 'posts/covidpass/covidpass.png'
 ---
 
 [CovidPass](https://github.com/covidpass-org/covidpass) offered the ability to add EU Digital Covid Vaccination Certificates as a pass into wallet apps. CovidPass accomplished this without sending personal data to a server and instead only used a hashed representation for the signing step.

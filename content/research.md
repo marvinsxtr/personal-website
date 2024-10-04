@@ -1,5 +1,7 @@
 ---
 title: Research Profile
+layout: research
+url: '/research'
 ---
 
 I am a PhD student in the Machine Learning Group at TU Berlin and at the Berlin Institute for the Foundations of Learning and Data ([BIFOLD](https://www.bifold.berlin/)). In addition, I am a Data Scientist at [Aignostics](https://aignostics.com/), where I am working on data-driven drug target identification in collaboration with [Bayer Pharmaceuticals](https://www.aignostics.com/press/news/bayer-and-aignostics-to-collaborate-on-next-generation-precision-oncology). During my Master's in Computer Science at TU Berlin, I worked on explainable graph neural networks for survival prediction in lung cancer and was funded by the Konrad Zuse School of Excellence in Learning and Intelligent Systems ([ELIZA](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp)).
