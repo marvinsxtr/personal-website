@@ -7,8 +7,8 @@ url: '/legal-notice'
 ## Information according to § 5 TMG
 
 Marvin Sextro\
-Kopenhagener Straße 45\
-10437 Berlin
+Huttenstraße 23\
+10553 Berlin
 
 ## Contact
 

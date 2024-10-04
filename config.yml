@@ -4,23 +4,30 @@ title: Marvin Sextro
 theme: PaperMod
 menu:
   main:
+  - identifier: research
+    name: Research
+    url: '/research'
+    weight: 10
   - identifier: projects
     name: Projects
     url: '/projects'
-    weight: 10
+    weight: 20
   - identifier: posts
     name: Posts
     url: '/posts'
-    weight: 20
+    weight: 30
 params:
   description: My personal website.
   profileMode:
     enabled: true
     title: Marvin Sextro
-    subtitle: Data Scientist at Aignostics
+    subtitle: Machine Learning for Precision Medicine
     imageUrl: '/profile.jpg'
     imageWidth: 120
     imageHeight: 120
+    buttons:
+      - name: Research Profile
+        url: "/research"
   socialIcons:
     - name: email
       url: 'mailto:marvin.sextro@gmail.com'
@@ -30,7 +37,3 @@ params:
       url: 'https://linkedin.com/in/marvinsxtr'
     - name: twitter
       url: 'https://twitter.com/marvinsxtr'
-  editPost:
-    URL: 'https://github.com/marvinsxtr/personal-website/tree/main/content'
-    Text: "Suggest Changes"
-    appendFilePath: true
