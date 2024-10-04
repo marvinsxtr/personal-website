@@ -1,6 +1,7 @@
 ---
 title: DuelRun
 dateString: August 2020 - February 2022
+date: 2020
 author: ['Marvin Sextro', 'Max Zöch']
 tags: ['app', 'running', 'watchOS']
 cover:

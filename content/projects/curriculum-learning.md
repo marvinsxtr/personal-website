@@ -1,10 +1,11 @@
 ---
 title: Watch Your Step! - Safe Training in Reinforcement Learning
 dateString: April 2022 - August 2022
+date: 2022
 author: ['Marvin Sextro', 'Jonas Loos', 'Rong Guo']
 tags: ['article', 'reinforcement learning', 'curriculum learning']
 cover:
-  image: 'posts/curriculum-learning/curriculum-learning.png'
+  image: 'projects/curriculum-learning/curriculum-learning.png'
 ---
 
 We give an interactive introduction to curriculum learning and provide the theoretical background to understand and apply the method. In our experiments, we compare the students trained by the Optimized curriculum policy proposed by <cite>Turchetta et al.[^1]</cite> to students trained with our own curriculum policies. 

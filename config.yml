@@ -12,10 +12,6 @@ menu:
     name: Projects
     url: '/projects'
     weight: 20
-  - identifier: posts
-    name: Posts
-    url: '/posts'
-    weight: 30
 params:
   description: My personal website.
   profileMode:
