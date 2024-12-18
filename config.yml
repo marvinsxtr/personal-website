@@ -33,5 +33,5 @@ params:
       url: 'https://scholar.google.com/citations?user=S2JS0ZIAAAAJ'
     - name: linkedin
       url: 'https://linkedin.com/in/marvinsxtr'
-    - name: twitter
+    - name: x
       url: 'https://x.com/marvinsxtr'
