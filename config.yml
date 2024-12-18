@@ -29,7 +29,9 @@ params:
       url: 'mailto:marvin.sextro@gmail.com'
     - name: github
       url: 'https://github.com/marvinsxtr'
+    - name: googlescholar
+      url: 'https://scholar.google.com/citations?user=S2JS0ZIAAAAJ'
     - name: linkedin
       url: 'https://linkedin.com/in/marvinsxtr'
     - name: twitter
-      url: 'https://twitter.com/marvinsxtr'
+      url: 'https://x.com/marvinsxtr'
