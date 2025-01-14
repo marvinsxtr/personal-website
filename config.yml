@@ -4,9 +4,9 @@ title: Marvin Sextro
 theme: PaperMod
 menu:
   main:
-  - identifier: research
-    name: Research
-    url: '/research'
+  - identifier: about
+    name: About Me
+    url: '/about'
     weight: 10
   - identifier: posts
     name: Posts
@@ -14,6 +14,8 @@ menu:
     weight: 20
 params:
   description: My personal website.
+  comments: true
+  defaultTheme: auto
   profileMode:
     enabled: true
     title: Marvin Sextro
@@ -22,8 +24,8 @@ params:
     imageWidth: 120
     imageHeight: 120
     buttons:
-      - name: Research Profile
-        url: "/research"
+      - name: About Me
+        url: "/about"
   socialIcons:
     - name: email
       url: 'mailto:marvin.sextro@gmail.com'
