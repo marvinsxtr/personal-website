@@ -1,9 +1,6 @@
 <div class="comments">
     <script>
-        var getTheme = window.localStorage && window.localStorage.getItem("theme");
-        getTheme = getTheme == null ? '{{$.Site.Params.defaultTheme}}' : getTheme;
-
-        let theme = getTheme === 'dark' ? 'github-dark' : 'github-light';
+        const theme = document.body.classList.contains("dark") ? 'github-dark' : 'github-light'
         let s = document.createElement('script');
         s.src = 'https://utteranc.es/client.js';
         s.setAttribute('repo', 'marvinsxtr/personal-website');
