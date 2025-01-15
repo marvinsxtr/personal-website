@@ -42,5 +42,5 @@ See [my Google Scholar profile](https://scholar.google.com/citations?user=S2JS0Z
 #### 2023
 
 * **October**: I received a Konrad Zuse Master's in AI Scholarship from the [Zuse School ELIZA](https://www.tu-darmstadt.de/forschen/forschungsfelder/information_intelligence_ii/eliza/eliza.en.jsp)!
-* **August** I finished my internship and started working on my master's thesis on explainable graph neural networks for survival prediction in lung cancer.
+* **August**: I finished my internship and started working on my master's thesis on explainable graph neural networks for survival prediction in lung cancer.
 * **February**: I joined [Aignostics](https://aignostics.com/) as a Data Scientist Intern! Looking forward to putting my skills into practice and diving into AI-powered precision diagnostics.
