@@ -1,9 +1,9 @@
 ---
 title: Watch Your Step! - Safe Training in Reinforcement Learning
-dateString: April 2022 - August 2022
-weight: 1
+date: 2022-08-01
 author: ['Marvin Sextro', 'Jonas Loos', 'Rong Guo']
-tags: ['article', 'reinforcement learning', 'curriculum learning']
+tags: ['post', 'reinforcement learning', 'curriculum learning']
+ShowReadingTime: false
 cover:
   image: 'posts/curriculum-learning/curriculum-learning.png'
 ---

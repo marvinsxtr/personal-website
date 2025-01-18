@@ -16,6 +16,11 @@ params:
   description: My personal website.
   comments: true
   defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
   profileMode:
     enabled: true
     title: Marvin Sextro
@@ -37,3 +42,5 @@ params:
       url: 'https://linkedin.com/in/marvinsxtr'
     - name: x
       url: 'https://x.com/marvinsxtr'
+    - name: rss
+      url: '/posts/index.xml'

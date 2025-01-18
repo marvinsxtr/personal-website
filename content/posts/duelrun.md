@@ -1,9 +1,9 @@
 ---
 title: DuelRun
-dateString: August 2020 - February 2022
-weight: 2
+date: 2020-08-01
 author: ['Marvin Sextro', 'Max Zöch']
-tags: ['app', 'running', 'watchOS']
+tags: ['project', 'running', 'watchOS']
+ShowReadingTime: false
 cover:
   image: 'posts/duelrun/duelrun.png'
 ---
