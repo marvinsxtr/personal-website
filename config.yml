@@ -25,7 +25,7 @@ params:
     enabled: true
     title: Marvin Sextro
     subtitle: Machine Learning for Precision Medicine
-    imageUrl: '/profile.jpg'
+    imageUrl: '/profile.webp'
     imageWidth: 120
     imageHeight: 120
     buttons:
