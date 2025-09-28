@@ -33,6 +33,13 @@ See [my LinkedIn profile](https://linkedin.com/in/marvinsxtr) for my full CV.
 
 See [my Google Scholar profile](https://scholar.google.com/citations?user=S2JS0ZIAAAAJ) for a list of my publications.
 
+### Teaching
+
+See the Machine Learning Group's [teaching page](https://web.ml.tu-berlin.de/teaching/courses/) for courses I am involved in:
+
+* Winter 2025/26: Project Machine Learning
+* Summer 2025: Python for Machine Learning
+
 ### News
 
 #### 2024
