@@ -2,6 +2,8 @@
 title: Legal Notice
 layout: legal-notice
 url: '/legal-notice'
+comments: false
+ShowReadingTime: false
 ---
 
 ## Information according to § 5 TMG
