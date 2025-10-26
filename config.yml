@@ -31,6 +31,8 @@ params:
     buttons:
       - name: About Me
         url: "/about"
+      - name: CV
+        url: "https://cv.marvinsextro.de"
   socialIcons:
     - name: email
       url: 'mailto:marvin.sextro@gmail.com'

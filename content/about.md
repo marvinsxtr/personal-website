@@ -21,13 +21,13 @@ My research lies at the intersection of generative modeling, causal inference, a
 
 ### Background
 
+You can find my full CV [here](https://cv.marvinsextro.de).
+
 * 2024 - | **PhD, Machine Learning**, [BIFOLD](https://bifold.berlin/) & [Machine Learning Group](https://web.ml.tu-berlin.de/), [TU Berlin](https://tu.berlin/), Germany
 * 2024 - | **Data Scientist**, [Aignostics](https://aignostics.com/), Berlin, Germany
 * 2023 - 2024 | **Data Scientist Intern**, [Aignostics](https://aignostics.com/), Berlin, Germany
 * 2021 - 2024 | **MSc in Computer Science**, [TU Berlin](https://tu.berlin/), Germany
 * 2018 - 2021 | **BSc in Computer Science**, [Leibniz University Hannover](https://uni-hannover.de/), Germany
-
-See [my LinkedIn profile](https://linkedin.com/in/marvinsxtr) for my full CV.
 
 ### Publications
 
