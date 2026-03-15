@@ -41,6 +41,11 @@ See the Machine Learning Group's [teaching page](https://web.ml.tu-berlin.de/tea
 
 ### News
 
+#### 2026
+
+* **March**: [MapPFN](https://arxiv.org/abs/2601.21092) was accepted at the [Generative AI in Genomics (Gen^2)](https://genai-in-genomics.github.io/) and the [Machine Learning for Genomics Explorations (MLGenX)](https://mlgenx.github.io/) workshops at ICLR! See you in Rio!
+* **January**: New [preprint](https://arxiv.org/abs/2601.21092) "MapPFN: Learning Causal Perturbation Maps in Context" out on arXiv!
+
 #### 2024
 
 * **November**: Our findings paper [xCG: Explainable Cell Graphs for Survival Prediction in Non-Small Cell Lung Cancer](https://arxiv.org/abs/2411.07643) was accepted at the [Machine Learning for Health (ML4H) symposium](https://ahli.cc/ml4h/) in Vancouver!
